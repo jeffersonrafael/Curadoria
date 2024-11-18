@@ -1,5 +1,10 @@
 # Estude com a ajuda da metodologia CRISP-DM
-![Capa do readme](https://github.com/jeffersonrafael/Curadoria/blob/main/Assets/studying-hard.gif)
+<!-- ![Capa do readme](https://github.com/jeffersonrafael/Curadoria/blob/main/Assets/studying-hard.gif)-->
+
+<p align="center">
+  <img src="https://github.com/jeffersonrafael/Curadoria/blob/main/Assets/studying-hard.gif" alt="Capa do readme" width="500" height="393">
+</p>
+
 
 # Conceitos importantes de cada etapa
 
