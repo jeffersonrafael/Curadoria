@@ -1,4 +1,4 @@
-# Estude com a ajuda da metodologia CRISP-DM
+# Estude ciência de dados de ponta a ponta com a ajuda da metodologia CRISP-DM
 <!-- ![Capa do readme](https://github.com/jeffersonrafael/Curadoria/blob/main/Assets/studying-hard.gif)-->
 
 <p align="center">
