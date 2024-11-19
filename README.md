@@ -27,6 +27,11 @@
 
 - Quais dados são categóricos?
 - Quais dados são numéricos?
+- Quais dados object são strings?
+- O tipo das datas esta correto?
+- Balanceamento dos dados
+  - https://en.wikipedia.org/wiki/Data_augmentation
+- Cardinalidade dos dados categóricos
 - Quais são os significados dos valores desta feature (coluna ou variável)?
 - O que significa esta feature?
 - dados estruturados
@@ -60,9 +65,10 @@
 - Modelo de regressão
 - Modelo de linguagem
 - Series Temporais
+  - https://otexts.com/fpp2/
 - Dados sequenciais
 - Fine Tuning
-- Algritmos de otimização
+- Algoritmos de otimização
     - Otimização de hiperparametros
         - Grid Search
         - Random Search
@@ -72,8 +78,9 @@
     - Gradiente descendente
         - estocastico
         - batch
-    - Algoritmo genetico
+    - Algoritmo genético
 - Transfer learning
+- Self-supervised learning
 - Aprendizado supervisionado
 - Aprendizado Não-supervisionado
 - Aprendizado por reforço
@@ -87,7 +94,7 @@
     - One-vs-Rest
 - Forecasting
 - Nowcasting
-- 
+- Deep learning
 
 ## Etapa 5 - Evaluation
 
