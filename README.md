@@ -6,6 +6,8 @@
 </p>
 
 
+**Todos os arquivos se encontram no drive:** https://drive.google.com/drive/folders/1chwXQtiQgxrGr7EdwN8YW-P2VU9StV6T?usp=sharing
+
 # Conceitos importantes de cada etapa
 
 ---
@@ -153,6 +155,4 @@ Feature Engeneering: https://www.bing.com/search?q=feature+engineering+for+machi
 
 Deplo: https://chatgpt.com/c/671704f8-c6a8-800c-a08d-439fd78e72b4
 
-Pasta com uma curadoria de conteúdos: https://drive.google.com/drive/folders/1chwXQtiQgxrGr7EdwN8YW-P2VU9StV6T?usp=sharing
-
-https://medium.com/@shawn.chumbar/the-crisp-dm-process-a-comprehensive-guide-4d893aecb151
+Artigo no medium sobre crisp-dm: https://medium.com/@shawn.chumbar/the-crisp-dm-process-a-comprehensive-guide-4d893aecb151
