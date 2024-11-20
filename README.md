@@ -51,7 +51,6 @@
     - https://distill.pub/2016/misread-tsne/
     - Kullback–Leibler divergence (Entropia relativa): https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 - Processamento de sinal
-  - 
 
 ## Etapa 3 - Data preparation
 
