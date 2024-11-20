@@ -42,6 +42,14 @@
 - Análise exploratória dos dados
     - Estatistica descritica
     - Fazendo perguntas
+- Visualização
+  - t-SNE
+    - https://observablehq.com/@robstelling/t-sne
+    - https://observablehq.com/@robstelling/abrindo-a-caixa-preta-do-t-sne/2
+    - https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
+    - https://medium.com/@violante.andre/an-introduction-to-t-sne-with-python-example-47e6ae7dc58f
+- Processamento de sinal
+  - 
 
 ## Etapa 3 - Data preparation
 
