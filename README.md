@@ -48,6 +48,7 @@
     - https://observablehq.com/@robstelling/abrindo-a-caixa-preta-do-t-sne/2
     - https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding
     - https://medium.com/@violante.andre/an-introduction-to-t-sne-with-python-example-47e6ae7dc58f
+    - Kullback–Leibler divergence: https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence
 - Processamento de sinal
   - 
 
