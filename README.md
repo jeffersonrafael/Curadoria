@@ -106,6 +106,7 @@
 - Forecasting
 - Nowcasting
 - Deep learning
+  - https://www.deep-ml.com/
 
 ## Etapa 5 - Evaluation
 
