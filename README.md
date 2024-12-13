@@ -158,6 +158,4 @@ Limpeza dos dados 2: https://medium.com/data-hackers/feature-engineering-técnic
 
 Feature Engeneering: https://www.bing.com/search?q=feature+engineering+for+machine+learning&qs=SC&pq=featue+engen&sk=SC2&sc=9-12&cvid=60451BC494134768B7977FD254F02314&FORM=QBRE&sp=3&ghc=1&lq=0
 
-Deplo: https://chatgpt.com/c/671704f8-c6a8-800c-a08d-439fd78e72b4
-
 Artigo no medium sobre crisp-dm: https://medium.com/@shawn.chumbar/the-crisp-dm-process-a-comprehensive-guide-4d893aecb151
